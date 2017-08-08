@@ -1,0 +1,1 @@
+void variant_sample();
